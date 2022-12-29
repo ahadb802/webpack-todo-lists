@@ -78,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click <a href="https://ahadb802.github.io/Webpack-Practice/">Here</a>
+Click <a href="https://github.com/ahadb802/webpack-todo-lists.git">Here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,14 +103,14 @@ $ node --version && npm --version
 ```
 ### Setup
 
-Clone the repository using [this link](https://github.com/ahadb802/Webpack-Practice.git)
+Clone the repository using [this link](https://github.com/ahadb802/webpack-todo-lists.git)
 
 ### Install
 
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/ahadb802/Webpack-Practice.git
+$ git clone https://github.com/ahadb802/webpack-todo-lists.git
 ```
 
 ### Usage
